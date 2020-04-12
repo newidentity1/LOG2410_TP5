@@ -1,0 +1,7 @@
+﻿  Moc'ing TeamViewer.h...
+  moc_TeamViewer.cpp
+  MemberTextFindReplace.cpp
+C:\Users\HP\Desktop\Cours\Conception Logicielle\Tp5Depart\MemberTextFindReplace.cpp(25,49): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\HP\Desktop\Cours\Conception Logicielle\Tp5Depart\MemberTextFindReplace.cpp(46,49): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  teamviewer.vcxproj -> C:\Users\HP\Desktop\Cours\Conception Logicielle\Tp5Depart\debug\teamviewer.exe
